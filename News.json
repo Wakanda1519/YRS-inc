@@ -1,0 +1,21 @@
+{
+    "appnews": {
+      "appid": 252490,
+      "newsitems": [
+        {
+          "gid": "1792116353195987",
+          "title": "NEW 217 DEVBLOG",
+          "url": "https://vk.com/yrsrust",
+          "is_external_url": true,
+          "author": "wakanda",
+          "contents": "[h1]НОВЫЙ СЕРВЕР ОТКРЫТ![/h1]\n\nДрузья, мы рады сообщить о запуске нового сервера! Если вы давно искали место, где можно погрузиться в захватывающий мир Rust, сейчас самое время присоединиться к нам!\n\nДля новых игроков мы подготовили специальный промокод: YRS-START . Активируйте его и начните свое приключение с преимуществом!",
+          "feedlabel": "The discovery of new servers",
+          "date": 1740063069,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 252490
+        }
+      ],
+      "count": 938
+    }
+}
