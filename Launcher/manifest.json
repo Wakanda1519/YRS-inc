@@ -7,18 +7,6 @@
         "md5": "87bbcee1fa1ae537c3ec5f963973e6a9",
         "size": 24992616
     },
-    "cfg/client.cfg": {
-        "md5": "aa009f6f132689731e735deaf22a6896",
-        "size": 2254
-    },
-    "cfg/keys.cfg": {
-        "md5": "28ce4eff7629246214ad178b18396e05",
-        "size": 842
-    },
-    "cfg/keys_default.cfg": {
-        "md5": "8c1460bf6a9cee893129d744e048c296",
-        "size": 653
-    },
     "RustClient_Data/app.info": {
         "md5": "17d238c6035d987f486da133f43f9dd2",
         "size": 33
