@@ -1,0 +1,21 @@
+{
+    "appnews": {
+      "appid": 252490,
+      "newsitems": [
+        {
+          "gid": "1792116353195987",
+          "title": "196 DEVBLOG",
+          "url": "https://yrsproject.ru",
+          "is_external_url": true,
+          "author": "wakanda",
+          "contents": "[h1]ДОБРО ПОЖАЛОВАТЬ НА YOUR RUSTY STORY[/h1]\n\nАктивируй промокод YRS-START в нашем донат-магазине YRS .Market и получи рубли на баланс.\n\n[url=https://yrsproject.gamestores.app/][/url][img]https://gspics.org/images/2025/05/11/IJE9Eo.jpg[/img]",
+          "feedlabel": "The discovery of new servers",
+          "date": 1740063069,
+          "feedname": "steam_community_announcements",
+          "feed_type": 1,
+          "appid": 252490
+        }
+      ],
+      "count": 938
+    }
+}
