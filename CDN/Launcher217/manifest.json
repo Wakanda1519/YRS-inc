@@ -1,1 +1,602 @@
-
+{
+    "ClientRPC.dll": {
+        "md5": "5882c37b79bae47a0d090006564edb22",
+        "size": 399880
+    },
+    "RustClient.exe": {
+        "md5": "fe7492c59228ad26e911674e31934756",
+        "size": 655216
+    },
+    "UnityCrashHandler64.exe": {
+        "md5": "b8b37f481eb5a39d8df62141a113c3af",
+        "size": 1452912
+    },
+    "UnityPlayer.dll": {
+        "md5": "ccdcd81aab96860333e3cce3c21300a1",
+        "size": 23964528
+    },
+    "RustClient_Data/app.info": {
+        "md5": "35b15379b0969790ae55ec3ae23ac0e1",
+        "size": 26
+    },
+    "RustClient_Data/boot.config": {
+        "md5": "ff4a04fe5f82b797f209331be54b145a",
+        "size": 164
+    },
+    "RustClient_Data/globalgamemanagers": {
+        "md5": "a09857a792c090773425467364242608",
+        "size": 164016
+    },
+    "RustClient_Data/globalgamemanagers.assets": {
+        "md5": "e60c043c7dca1e1f0aabf93a56e10eae",
+        "size": 1237008
+    },
+    "RustClient_Data/level0": {
+        "md5": "a643ea9cf8ecc76e13bb79338201c6aa",
+        "size": 16652
+    },
+    "RustClient_Data/resources.assets": {
+        "md5": "d9860abc1de0a3c990e1a4a541848c0f",
+        "size": 27834824
+    },
+    "RustClient_Data/resources.assets.resS": {
+        "md5": "0dcd0bc97f325cb15b3e22b7e3793dac",
+        "size": 3863704
+    },
+    "RustClient_Data/ScreenSelector.png": {
+        "md5": "14f30cb7fde12627abc78af75fc6a6b8",
+        "size": 23681
+    },
+    "RustClient_Data/sharedassets0.assets": {
+        "md5": "e6ed0c786d94d858bd7b10b192c618d7",
+        "size": 33876384
+    },
+    "RustClient_Data/sharedassets0.assets.resS": {
+        "md5": "5e991b1e5e9f89fa203dcf08e66188b1",
+        "size": 1682808
+    },
+    "RustClient_Data/Managed/ApexAI.dll": {
+        "md5": "ec4327c1ce10dd142d40f0e7fdb68c52",
+        "size": 78192
+    },
+    "RustClient_Data/Managed/ApexSerialization.dll": {
+        "md5": "80f60b6b5798b15f0363ef745f5e67e4",
+        "size": 18800
+    },
+    "RustClient_Data/Managed/ApexShared.dll": {
+        "md5": "9aad72d11e3c2a817fa224a2e9fd95c8",
+        "size": 41328
+    },
+    "RustClient_Data/Managed/Assembly-CSharp-firstpass.dll": {
+        "md5": "143ef24971be5ab2d48e10eac26055d1",
+        "size": 384368
+    },
+    "RustClient_Data/Managed/Assembly-CSharp.dll": {
+        "md5": "007b5d9b975e966ad36d9c97b9f80d8c",
+        "size": 8309760
+    },
+    "RustClient_Data/Managed/com.unity.postprocessing.Runtime.dll": {
+        "md5": "d1a4f7ff21cb8c7ba3350699abf6f9d4",
+        "size": 150896
+    },
+    "RustClient_Data/Managed/EasyAntiCheat.Client.dll": {
+        "md5": "ad78f2f6465bbf3edb0c2df617d86d48",
+        "size": 15872
+    },
+    "RustClient_Data/Managed/Facepunch.Console.dll": {
+        "md5": "f197ef8fa0d4563d176bc707dc013d0b",
+        "size": 16896
+    },
+    "RustClient_Data/Managed/Facepunch.GoogleSheets.dll": {
+        "md5": "f6aaa0be9d40957202a674b6cd79f63f",
+        "size": 11632
+    },
+    "RustClient_Data/Managed/Facepunch.Input.dll": {
+        "md5": "b9701af6d8d6148a98e48e351050d172",
+        "size": 12656
+    },
+    "RustClient_Data/Managed/Facepunch.Network.dll": {
+        "md5": "b7a551f55a446091935b25507b9e0100",
+        "size": 24576
+    },
+    "RustClient_Data/Managed/Facepunch.Raknet.dll": {
+        "md5": "c3b9f1ba0398cea72663b4d1e4b985fc",
+        "size": 30064
+    },
+    "RustClient_Data/Managed/Facepunch.Rcon.dll": {
+        "md5": "8a3c65e8ae0a4efe2a0d47de472816a6",
+        "size": 10608
+    },
+    "RustClient_Data/Managed/Facepunch.Skeleton.dll": {
+        "md5": "8a63daf8677e9a2870df9ce5386dac12",
+        "size": 11632
+    },
+    "RustClient_Data/Managed/Facepunch.Sqlite.dll": {
+        "md5": "affd378b841e7a9099882168b37830f3",
+        "size": 13680
+    },
+    "RustClient_Data/Managed/Facepunch.Steamworks.dll": {
+        "md5": "135d891b6bd7ce5f90e2a38fa4d55885",
+        "size": 323072
+    },
+    "RustClient_Data/Managed/Facepunch.System.dll": {
+        "md5": "eb2c590dd8a2de36e19c917af0f08010",
+        "size": 39936
+    },
+    "RustClient_Data/Managed/Facepunch.Unity.dll": {
+        "md5": "d069e33ac7daa038a12c888d61039c35",
+        "size": 62320
+    },
+    "RustClient_Data/Managed/Facepunch.UnityEngine.dll": {
+        "md5": "0a7cca416f78ec82f1f57d7cbfc23d2e",
+        "size": 117104
+    },
+    "RustClient_Data/Managed/GA.dll": {
+        "md5": "4cab4f65494a54a1e01584c5c4f2436c",
+        "size": 99696
+    },
+    "RustClient_Data/Managed/I18N.CJK.dll": {
+        "md5": "cb44baba04058fef8c5ad1744732e4de",
+        "size": 684912
+    },
+    "RustClient_Data/Managed/I18N.dll": {
+        "md5": "966c9b67b9ebf214f3694092e7901282",
+        "size": 36208
+    },
+    "RustClient_Data/Managed/I18N.MidEast.dll": {
+        "md5": "9369ad99a45692fa47e10e446a050ee8",
+        "size": 33648
+    },
+    "RustClient_Data/Managed/I18N.Other.dll": {
+        "md5": "c2afa85bf82e5f4b54aa30e8e279dac8",
+        "size": 36720
+    },
+    "RustClient_Data/Managed/I18N.Rare.dll": {
+        "md5": "68bb5c6f29b74c0ca4612cc98fa5a91a",
+        "size": 175472
+    },
+    "RustClient_Data/Managed/I18N.West.dll": {
+        "md5": "7b0efda19a50734e2e4f8306dd801e81",
+        "size": 70000
+    },
+    "RustClient_Data/Managed/Ionic.Zip.Reduced.dll": {
+        "md5": "98c6f0cfa9bacc2128e8fb2227b6f339",
+        "size": 67440
+    },
+    "RustClient_Data/Managed/LZ4.dll": {
+        "md5": "4a7cb08ff5ae7f0d256eeeee0c484581",
+        "size": 39280
+    },
+    "RustClient_Data/Managed/LZ4pn.dll": {
+        "md5": "987a35968f250675aab2458bd18fcbbc",
+        "size": 26992
+    },
+    "RustClient_Data/Managed/Mono.Data.Sqlite.dll": {
+        "md5": "7373e4e11c7994fc3f752a82e2bce59f",
+        "size": 141680
+    },
+    "RustClient_Data/Managed/Mono.Security.dll": {
+        "md5": "6b680f10ce43b6a4c828e81045be1a7a",
+        "size": 105328
+    },
+    "RustClient_Data/Managed/mscorlib.dll": {
+        "md5": "a9046af609ba5d141458e08c951f1f0a",
+        "size": 2544496
+    },
+    "RustClient_Data/Managed/netstandard.dll": {
+        "md5": "c19da1038e3df1a29753b74b39d44e82",
+        "size": 57200
+    },
+    "RustClient_Data/Managed/NewAssembly.dll": {
+        "md5": "c4034bc7cb94186053cdee53e11ce1c1",
+        "size": 13168
+    },
+    "RustClient_Data/Managed/Newtonsoft.Json.dll": {
+        "md5": "af533c2f4479f7f327add4a24d1942af",
+        "size": 346992
+    },
+    "RustClient_Data/Managed/protobuf-net.dll": {
+        "md5": "2a820c83aacdf0281021f75710c112bc",
+        "size": 197488
+    },
+    "RustClient_Data/Managed/Rust.Data.dll": {
+        "md5": "af4d2a26707c2f945728f0adc7a9adf6",
+        "size": 319344
+    },
+    "RustClient_Data/Managed/Rust.Global.dll": {
+        "md5": "aaadb3ab891ae2e554b2a19cc469f848",
+        "size": 64880
+    },
+    "RustClient_Data/Managed/Rust.UI.dll": {
+        "md5": "57566c667ca1b7a9ee1875556944bfee",
+        "size": 24944
+    },
+    "RustClient_Data/Managed/Rust.Workshop.dll": {
+        "md5": "3fb10e01cbf5d836d2e5bb5f0ae3e5a3",
+        "size": 230400
+    },
+    "RustClient_Data/Managed/Rust.World.dll": {
+        "md5": "59570ef4c0f5f8a1cb64fc419be08fab",
+        "size": 15728
+    },
+    "RustClient_Data/Managed/System.Configuration.dll": {
+        "md5": "4e9fc78dcf0aa0c068e4cfc2b9f0a9cf",
+        "size": 70512
+    },
+    "RustClient_Data/Managed/System.Core.dll": {
+        "md5": "0a472c053d72d333559858eafcfdb78a",
+        "size": 181616
+    },
+    "RustClient_Data/Managed/System.Data.dll": {
+        "md5": "2ebe1954a65bd1bb2134a0a0a7bdb7a1",
+        "size": 688496
+    },
+    "RustClient_Data/Managed/System.Diagnostics.StackTrace.dll": {
+        "md5": "23ec104d51fcda9958618cb339a8effb",
+        "size": 9072
+    },
+    "RustClient_Data/Managed/System.dll": {
+        "md5": "5fd395aae67c864e2a17f3d01e539692",
+        "size": 1132400
+    },
+    "RustClient_Data/Managed/System.Globalization.Extensions.dll": {
+        "md5": "f83b7bba2fa2a0acfe91c349067d512e",
+        "size": 9072
+    },
+    "RustClient_Data/Managed/System.IO.Compression.dll": {
+        "md5": "f98964291d8e46c69e3c8cc003eb71fb",
+        "size": 9072
+    },
+    "RustClient_Data/Managed/System.Numerics.dll": {
+        "md5": "7d4e54e1d5f799eaf1c5b69af48affb2",
+        "size": 35184
+    },
+    "RustClient_Data/Managed/System.Runtime.Serialization.dll": {
+        "md5": "44635d4c15a85f575bcb689d30abc6e5",
+        "size": 10096
+    },
+    "RustClient_Data/Managed/System.Transactions.dll": {
+        "md5": "14da09e324b86499b64974a5d23133e1",
+        "size": 19312
+    },
+    "RustClient_Data/Managed/System.Xml.dll": {
+        "md5": "396b405cadd62bf604b80ac02414f4a6",
+        "size": 1335664
+    },
+    "RustClient_Data/Managed/System.Xml.Linq.dll": {
+        "md5": "e5f1ba88a8ff6fca9b1d157d10354193",
+        "size": 55152
+    },
+    "RustClient_Data/Managed/Unity.TextMeshPro.dll": {
+        "md5": "b2336a73730f12b3b0304c8474f58413",
+        "size": 336240
+    },
+    "RustClient_Data/Managed/UnityEngine.AIModule.dll": {
+        "md5": "2b9d280bd1b1415c4a666a9bfaf387e9",
+        "size": 21363
+    },
+    "RustClient_Data/Managed/UnityEngine.AnimationModule.dll": {
+        "md5": "92b2f4d8d63e173cfe1fc61f1754a375",
+        "size": 31094
+    },
+    "RustClient_Data/Managed/UnityEngine.AssetBundleModule.dll": {
+        "md5": "25030bec6bfcbe27219a31c38adc6a1e",
+        "size": 16246
+    },
+    "RustClient_Data/Managed/UnityEngine.AudioModule.dll": {
+        "md5": "cb89709a95daa236d413f2e325404c16",
+        "size": 27507
+    },
+    "RustClient_Data/Managed/UnityEngine.ClothModule.dll": {
+        "md5": "262ef9c72c38e93ca12e90d147b1f710",
+        "size": 13685
+    },
+    "RustClient_Data/Managed/UnityEngine.CoreModule.dll": {
+        "md5": "e1de475c9b290b4360e574f9756afe26",
+        "size": 375808
+    },
+    "RustClient_Data/Managed/UnityEngine.DirectorModule.dll": {
+        "md5": "1bb01a57235bb7507137343a383f1e8b",
+        "size": 13174
+    },
+    "RustClient_Data/Managed/UnityEngine.dll": {
+        "md5": "d3843de39703d2bbd24bb9bca2ff5fd0",
+        "size": 38773
+    },
+    "RustClient_Data/Managed/UnityEngine.GridModule.dll": {
+        "md5": "e97590cb8f3e858bd3819ae2198c5cbf",
+        "size": 12659
+    },
+    "RustClient_Data/Managed/UnityEngine.ImageConversionModule.dll": {
+        "md5": "65b43e8d1c35b138273b1bd3e5b29e56",
+        "size": 13170
+    },
+    "RustClient_Data/Managed/UnityEngine.IMGUIModule.dll": {
+        "md5": "20002894304db078bfe50d27313f9373",
+        "size": 152946
+    },
+    "RustClient_Data/Managed/UnityEngine.InputModule.dll": {
+        "md5": "5c25949ceb413ec3cd970f2125af9621",
+        "size": 14708
+    },
+    "RustClient_Data/Managed/UnityEngine.ParticleSystemModule.dll": {
+        "md5": "b1a5068a58d6f2d1e181134336eaaa33",
+        "size": 28531
+    },
+    "RustClient_Data/Managed/UnityEngine.Physics2DModule.dll": {
+        "md5": "0b900c8b3755d386123e1bcf083ea8ca",
+        "size": 20852
+    },
+    "RustClient_Data/Managed/UnityEngine.PhysicsModule.dll": {
+        "md5": "5e6e15cbb96fa0c1a08787ea82ad7d93",
+        "size": 39795
+    },
+    "RustClient_Data/Managed/UnityEngine.ScreenCaptureModule.dll": {
+        "md5": "1baf8d7abe9733bf87ddd9d2a78a816b",
+        "size": 12658
+    },
+    "RustClient_Data/Managed/UnityEngine.SharedInternalsModule.dll": {
+        "md5": "f928f1644b49d1949f9eaf3e995279f6",
+        "size": 19830
+    },
+    "RustClient_Data/Managed/UnityEngine.TerrainModule.dll": {
+        "md5": "e80dfe5236569afefdea5d5fb7a572c6",
+        "size": 25974
+    },
+    "RustClient_Data/Managed/UnityEngine.TerrainPhysicsModule.dll": {
+        "md5": "f4744f5805bab55d25d2816cc8e7d0b6",
+        "size": 12662
+    },
+    "RustClient_Data/Managed/UnityEngine.TextCoreModule.dll": {
+        "md5": "8bf8099719eb2b46b481c364e3ef76fc",
+        "size": 28021
+    },
+    "RustClient_Data/Managed/UnityEngine.TextRenderingModule.dll": {
+        "md5": "e4cc8a0358b1214307b08b6ff2ed98c5",
+        "size": 21878
+    },
+    "RustClient_Data/Managed/UnityEngine.TilemapModule.dll": {
+        "md5": "007c6b409cc7c06cbf99ba641e733015",
+        "size": 16244
+    },
+    "RustClient_Data/Managed/UnityEngine.UI.dll": {
+        "md5": "bc0219d7486fcb62ec444aaaf46d17b0",
+        "size": 262515
+    },
+    "RustClient_Data/Managed/UnityEngine.UIElementsModule.dll": {
+        "md5": "699af0a587d99b5f964c16027bde8273",
+        "size": 15730
+    },
+    "RustClient_Data/Managed/UnityEngine.UIModule.dll": {
+        "md5": "747d4c36510eca7ad2918ff48448227d",
+        "size": 21877
+    },
+    "RustClient_Data/Managed/UnityEngine.UnityAnalyticsModule.dll": {
+        "md5": "990f733c2a91eda53f3fef468293f565",
+        "size": 15221
+    },
+    "RustClient_Data/Managed/UnityEngine.UnityWebRequestModule.dll": {
+        "md5": "c3428041ec4d219245194cc8f29d2a54",
+        "size": 32118
+    },
+    "RustClient_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll": {
+        "md5": "4f9c290ef49277fe1a6d26aac378aa02",
+        "size": 14196
+    },
+    "RustClient_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll": {
+        "md5": "86c657913ee65bbf3b76139df95448bd",
+        "size": 16245
+    },
+    "RustClient_Data/Managed/UnityEngine.VehiclesModule.dll": {
+        "md5": "20886556a3d2b16a4f1339b7ec3334e4",
+        "size": 12662
+    },
+    "RustClient_Data/Managed/UnityEngine.VFXModule.dll": {
+        "md5": "6830e3923ad17151ef8446fbd82b8839",
+        "size": 15219
+    },
+    "RustClient_Data/Managed/UnityEngine.VideoModule.dll": {
+        "md5": "7b08122bb92a9c0dfd04852fdcc1f1cd",
+        "size": 17266
+    },
+    "RustClient_Data/Managed/UnityEngine.VRModule.dll": {
+        "md5": "c80966204cd5eb9f13287ea9abec1856",
+        "size": 13172
+    },
+    "RustClient_Data/Managed/UnityEngine.WindModule.dll": {
+        "md5": "5998c523b02b5bf06f65cdb6cb8acf86",
+        "size": 13174
+    },
+    "RustClient_Data/Managed/UnityEngine.XRModule.dll": {
+        "md5": "c0e3549b20eaacd8f6712a7211077160",
+        "size": 29043
+    },
+    "RustClient_Data/Managed/websocket-sharp.dll": {
+        "md5": "8c157da1d3b408589cc9724e8ae10a66",
+        "size": 116592
+    },
+    "RustClient_Data/Plugins/eac_server.dll": {
+        "md5": "147408170199577a18612f40bb1d4437",
+        "size": 1448304
+    },
+    "RustClient_Data/Plugins/EasyAntiCheat.dll": {
+        "md5": "99248c09cd813258346ad2d3707844f7",
+        "size": 796272
+    },
+    "RustClient_Data/Plugins/RakNet.dll": {
+        "md5": "b32f4caa068d3dbc1d9145c08770a00a",
+        "size": 275824
+    },
+    "RustClient_Data/Plugins/Renderer.dll": {
+        "md5": "9cad31e02381adc9cc4010ee2dd0eafe",
+        "size": 337264
+    },
+    "RustClient_Data/Plugins/RustNative.dll": {
+        "md5": "4c10900eeb0c7d4210c26d2217eabf48",
+        "size": 798064
+    },
+    "RustClient_Data/Plugins/sqlite3.dll": {
+        "md5": "3416f164a6a678bfd265110ba4e56bef",
+        "size": 1687408
+    },
+    "RustClient_Data/Plugins/steam_api64.dll": {
+        "md5": "8f481ed91c05d7efccae32b0d0359f22",
+        "size": 285552
+    },
+    "RustClient_Data/Resources/unity default resources": {
+        "md5": "3bf103a3bbeaf2ba129757afafb91a82",
+        "size": 3795812
+    },
+    "RustClient_Data/Resources/unity_builtin_extra": {
+        "md5": "da683c2a21c9877f3c9a8c18bb585cdc",
+        "size": 5893368
+    },
+    "RustClient_Data/StreamingAssets/1.jpg": {
+        "md5": "f248fcd483c405bb40e84cfdfde45519",
+        "size": 656685
+    },
+    "RustClient_Data/StreamingAssets/10.jpg": {
+        "md5": "561848e26bc44d889b5f34bd13e387da",
+        "size": 1445738
+    },
+    "RustClient_Data/StreamingAssets/11.jpg": {
+        "md5": "e45e78549ee1d3d576064721f19fcad8",
+        "size": 644689
+    },
+    "RustClient_Data/StreamingAssets/12.jpg": {
+        "md5": "326460bf1793fbc15e6d463296389269",
+        "size": 2197916
+    },
+    "RustClient_Data/StreamingAssets/13.jpg": {
+        "md5": "0fbd1ebc30241e0df128204ed62e9801",
+        "size": 422869
+    },
+    "RustClient_Data/StreamingAssets/14.jpg": {
+        "md5": "b5aa1b144de2d8c4c9ea2263b6b35915",
+        "size": 479520
+    },
+    "RustClient_Data/StreamingAssets/15.jpg": {
+        "md5": "ca27b6e99f2440fbadb69673e13ccff3",
+        "size": 356472
+    },
+    "RustClient_Data/StreamingAssets/16.jpg": {
+        "md5": "8b6bb6befd11069ce5d3f517b8cae36a",
+        "size": 385577
+    },
+    "RustClient_Data/StreamingAssets/17.jpg": {
+        "md5": "404f6b05d13523daafb1880391347846",
+        "size": 5028044
+    },
+    "RustClient_Data/StreamingAssets/18.jpg": {
+        "md5": "891e42bf8a8ab7b5061c02753d123a10",
+        "size": 762558
+    },
+    "RustClient_Data/StreamingAssets/19.jpg": {
+        "md5": "8f5be52c1537da8bbc682204bd193fbe",
+        "size": 1692476
+    },
+    "RustClient_Data/StreamingAssets/2.jpg": {
+        "md5": "42638a7d7aacd4983318c11f7e443476",
+        "size": 610714
+    },
+    "RustClient_Data/StreamingAssets/20.jpg": {
+        "md5": "a9fec187bc6480e35263772d2e7782d8",
+        "size": 874751
+    },
+    "RustClient_Data/StreamingAssets/21.jpg": {
+        "md5": "6e291c9998a4001e05946fb430167dba",
+        "size": 331950
+    },
+    "RustClient_Data/StreamingAssets/22.jpg": {
+        "md5": "fea7e5a3fbb513d811a9bdc123b1ef38",
+        "size": 233984
+    },
+    "RustClient_Data/StreamingAssets/3.jpg": {
+        "md5": "341e8b6440ae76c37e259dac7d11c43f",
+        "size": 832941
+    },
+    "RustClient_Data/StreamingAssets/4.jpg": {
+        "md5": "54731da7250d688807aa8dc547dff856",
+        "size": 416609
+    },
+    "RustClient_Data/StreamingAssets/5.jpg": {
+        "md5": "1847c6ab64f9bad967a2015ddd9e712f",
+        "size": 298861
+    },
+    "RustClient_Data/StreamingAssets/6.jpg": {
+        "md5": "e565032fee618da9bfc6fdbf9de556c9",
+        "size": 558870
+    },
+    "RustClient_Data/StreamingAssets/7.jpg": {
+        "md5": "a1d6d1427c6fcc4fc54e93c1b188df99",
+        "size": 305950
+    },
+    "RustClient_Data/StreamingAssets/8.jpg": {
+        "md5": "ad9c5b4fc1bceff52c097b99402cc39f",
+        "size": 439306
+    },
+    "RustClient_Data/StreamingAssets/9.jpg": {
+        "md5": "248910933a62b7e8cb7fecda1a154410",
+        "size": 3548577
+    },
+    "RustClient_Data/StreamingAssets/benchmark.dem": {
+        "md5": "b8ad7b10cbd1733f788a07e444eaf5c0",
+        "size": 13746146
+    },
+    "RustClient_Data/StreamingAssets/hit.wav": {
+        "md5": "9890de85f1810f36909f93c07677f443",
+        "size": 22100
+    },
+    "RustClient_Data/StreamingAssets/LZ4.txt": {
+        "md5": "e27b8ef3c2ccb832de047a910a3dea08",
+        "size": 1319
+    },
+    "RustClient_Data/StreamingAssets/marker.png": {
+        "md5": "320342543aeed6ce9c9e1d1891560215",
+        "size": 13189
+    },
+    "RustClient_Data/StreamingAssets/Newtonsoft.Json.dll": {
+        "md5": "1450da2f58f23806a4ef694dae961a2d",
+        "size": 537464
+    },
+    "RustClient_Data/StreamingAssets/Protobuf.txt": {
+        "md5": "73223e114e48425fe625af399f25a695",
+        "size": 810
+    },
+    "RustClient_Data/StreamingAssets/RenderInfo.exe": {
+        "md5": "ce631763b1d077219f423d10be1538ab",
+        "size": 44912
+    },
+    "RustClient_Data/StreamingAssets/MenuVideo/dome.mp4": {
+        "md5": "5800ff58547e543a0d342c72a495050f",
+        "size": 4316276
+    },
+    "RustClient_Data/StreamingAssets/MenuVideo/horse.mp4": {
+        "md5": "d3ccd045a2a244d0fdf69bc5da0a91dc",
+        "size": 9789054
+    },
+    "RustClient_Data/StreamingAssets/MenuVideo/lighthouse.mp4": {
+        "md5": "c2ad352fb21faa87ad57b2c4109854af",
+        "size": 3650461
+    },
+    "RustClient_Data/StreamingAssets/MenuVideo/oilrig.mp4": {
+        "md5": "c2567374d49b1eb1b29ad4f24c213c2a",
+        "size": 3751028
+    },
+    "RustClient_Data/StreamingAssets/MenuVideo/sunset.mp4": {
+        "md5": "90992413b2be296608341dcc67458d39",
+        "size": 3703592
+    },
+    "RustClient_Data/StreamingAssets/MenuVideo/supermarket.mp4": {
+        "md5": "1eac21afe4d0fd927f5958b93527b240",
+        "size": 2619551
+    },
+    "RustClient_Data/StreamingAssets/MenuVideo/swamp.mp4": {
+        "md5": "8f625f95ce58ac372f1357bc1dc5bea0",
+        "size": 3277564
+    },
+    "RustClient_Data/StreamingAssets/MenuVideo/whatsnew.mp4": {
+        "md5": "7ec461e4711601121a98e9c821e25c1f",
+        "size": 31405563
+    }
+}
