@@ -15,13 +15,81 @@
         "md5": "ccdcd81aab96860333e3cce3c21300a1",
         "size": 23964528
     },
+    "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll": {
+        "md5": "6d25648ce153562ca5ffcd3bbdd3a129",
+        "size": 4945264
+    },
+    "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll": {
+        "md5": "afe8011d2940ab5d9b9233d3aa6aa15f",
+        "size": 784752
+    },
+    "MonoBleedingEdge/etc/mono/browscap.ini": {
+        "md5": "378be809df7d15aac75a175693e25fbb",
+        "size": 311984
+    },
+    "MonoBleedingEdge/etc/mono/config": {
+        "md5": "3f09772a4f6f3d1932918169d2050e2b",
+        "size": 3200
+    },
+    "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx": {
+        "md5": "f7be9f1841ff92f9d4040aed832e0c79",
+        "size": 60575
+    },
+    "MonoBleedingEdge/etc/mono/2.0/machine.config": {
+        "md5": "cad24142abba464dd90777c3d347ef88",
+        "size": 29116
+    },
+    "MonoBleedingEdge/etc/mono/2.0/settings.map": {
+        "md5": "22c818a23169e12bd3c8587b6394c731",
+        "size": 2622
+    },
+    "MonoBleedingEdge/etc/mono/2.0/web.config": {
+        "md5": "2b6303c4f12762b71051db6e947f90a4",
+        "size": 11686
+    },
+    "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx": {
+        "md5": "f7be9f1841ff92f9d4040aed832e0c79",
+        "size": 60575
+    },
+    "MonoBleedingEdge/etc/mono/4.0/machine.config": {
+        "md5": "24c866ce8037fcdca2287234eddff637",
+        "size": 33648
+    },
+    "MonoBleedingEdge/etc/mono/4.0/settings.map": {
+        "md5": "ba17ade8a8e3ee221377534c8136f617",
+        "size": 2622
+    },
+    "MonoBleedingEdge/etc/mono/4.0/web.config": {
+        "md5": "b127480ee9f0b8dab6a3f73ad79dd332",
+        "size": 18848
+    },
+    "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx": {
+        "md5": "f7be9f1841ff92f9d4040aed832e0c79",
+        "size": 60575
+    },
+    "MonoBleedingEdge/etc/mono/4.5/machine.config": {
+        "md5": "0869544722561f5aff0eefc83fc7b001",
+        "size": 34106
+    },
+    "MonoBleedingEdge/etc/mono/4.5/settings.map": {
+        "md5": "ba17ade8a8e3ee221377534c8136f617",
+        "size": 2622
+    },
+    "MonoBleedingEdge/etc/mono/4.5/web.config": {
+        "md5": "08101241b15b53ef0ab908f6d388881f",
+        "size": 18857
+    },
+    "MonoBleedingEdge/etc/mono/mconfig/config.xml": {
+        "md5": "f34b330f20dce1bdcce9058fca287099",
+        "size": 25817
+    },
     "RustClient_Data/app.info": {
-        "md5": "35b15379b0969790ae55ec3ae23ac0e1",
-        "size": 26
+        "md5": "b17f74842ce84c20a728d1d22f6813a1",
+        "size": 27
     },
     "RustClient_Data/boot.config": {
-        "md5": "ff4a04fe5f82b797f209331be54b145a",
-        "size": 164
+        "md5": "4a85237e0e18911f27a4facc54f2f83d",
+        "size": 171
     },
     "RustClient_Data/globalgamemanagers": {
         "md5": "a09857a792c090773425467364242608",
@@ -548,8 +616,8 @@
         "size": 22100
     },
     "RustClient_Data/StreamingAssets/LZ4.txt": {
-        "md5": "e27b8ef3c2ccb832de047a910a3dea08",
-        "size": 1319
+        "md5": "9da1d2bb78fcd571feb64386b6991a59",
+        "size": 1342
     },
     "RustClient_Data/StreamingAssets/marker.png": {
         "md5": "320342543aeed6ce9c9e1d1891560215",
@@ -560,8 +628,8 @@
         "size": 537464
     },
     "RustClient_Data/StreamingAssets/Protobuf.txt": {
-        "md5": "73223e114e48425fe625af399f25a695",
-        "size": 810
+        "md5": "d320e4c3301e5185f308b2e8f6f07984",
+        "size": 829
     },
     "RustClient_Data/StreamingAssets/RenderInfo.exe": {
         "md5": "ce631763b1d077219f423d10be1538ab",
