@@ -1,0 +1,14 @@
+# Запретить автоматическую конвертацию окончаний строк для всех файлов
+* -text
+
+# Явно пометить проблемные расширения как бинарные
+*.info binary
+*.cfg binary
+*.json binary
+*.config binary
+*.txt binary
+*.xml binary
+*.ini binary
+*.browser binary
+*.aspx binary
+*.map binary
