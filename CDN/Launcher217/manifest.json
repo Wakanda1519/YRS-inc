@@ -83,10 +83,6 @@
         "md5": "f34b330f20dce1bdcce9058fca287099",
         "size": 25817
     },
-    "RustClient_Data/boot.config": {
-        "md5": "4a85237e0e18911f27a4facc54f2f83d",
-        "size": 171
-    },
     "RustClient_Data/globalgamemanagers": {
         "md5": "a09857a792c090773425467364242608",
         "size": 164016
@@ -611,10 +607,6 @@
         "md5": "9890de85f1810f36909f93c07677f443",
         "size": 22100
     },
-    "RustClient_Data/StreamingAssets/LZ4.txt": {
-        "md5": "9da1d2bb78fcd571feb64386b6991a59",
-        "size": 1342
-    },
     "RustClient_Data/StreamingAssets/marker.png": {
         "md5": "320342543aeed6ce9c9e1d1891560215",
         "size": 13189
@@ -622,10 +614,6 @@
     "RustClient_Data/StreamingAssets/Newtonsoft.Json.dll": {
         "md5": "1450da2f58f23806a4ef694dae961a2d",
         "size": 537464
-    },
-    "RustClient_Data/StreamingAssets/Protobuf.txt": {
-        "md5": "d320e4c3301e5185f308b2e8f6f07984",
-        "size": 829
     },
     "RustClient_Data/StreamingAssets/RenderInfo.exe": {
         "md5": "ce631763b1d077219f423d10be1538ab",
