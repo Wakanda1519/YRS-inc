@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "download_url": "https://gitverse.ru/api/repos/wakanda/YRS-inc/raw/branch/main/CDN/LauncherUpdate/RustLauncher217.exe",
-  "changelog": "",
-  "required": false
+  "changelog": "Исправлена ошибка, из-за которой лаунчер при каждом запуске заново скачивал одни и те же служебные файлы",
+  "required": true
 }
