@@ -1,16 +1,16 @@
 {
-  "version": "1.0.2",
-  "changelog": "Исправлены вылеты лаунчера, устранён каскад окон с ошибками, добавлена возможность скачать лаунчер вручную при сбое",
+  "version": "1.0.3",
+  "changelog": "Исправлен игровой режим с быстрой загрузкой, добавлены автообновления без подтверждения и окно с инструкцией при сбое мониторинга на 196",
   "required": true,
   "download_url": "https://gitverse.ru/api/repos/wakanda/YRS-inc/raw/branch/main/CDN/LauncherUpdate/RustLauncher196.exe",
   "binaries": [
     {
-      "mirror": "GitVerse",
-      "url": "https://gitverse.ru/api/repos/wakanda/YRS-inc/raw/branch/main/CDN/LauncherUpdate/RustLauncher196.exe"
-    },
-    {
       "mirror": "GitHub",
       "url": "https://raw.githubusercontent.com/Wakanda1519/YRS-inc/main/CDN/LauncherUpdate/RustLauncher196.exe"
+    },
+    {
+      "mirror": "GitVerse",
+      "url": "https://gitverse.ru/api/repos/wakanda/YRS-inc/raw/branch/main/CDN/LauncherUpdate/RustLauncher196.exe"
     }
   ]
 }
