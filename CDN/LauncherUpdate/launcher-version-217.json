@@ -5,12 +5,12 @@
   "download_url": "https://gitverse.ru/api/repos/wakanda/YRS-inc/raw/branch/main/CDN/LauncherUpdate/RustLauncher217.exe",
   "binaries": [
     {
-      "mirror": "GitVerse",
-      "url": "https://gitverse.ru/api/repos/wakanda/YRS-inc/raw/branch/main/CDN/LauncherUpdate/RustLauncher217.exe"
-    },
-    {
       "mirror": "GitHub",
       "url": "https://raw.githubusercontent.com/Wakanda1519/YRS-inc/main/CDN/LauncherUpdate/RustLauncher217.exe"
+    },
+    {
+      "mirror": "GitVerse",
+      "url": "https://gitverse.ru/api/repos/wakanda/YRS-inc/raw/branch/main/CDN/LauncherUpdate/RustLauncher217.exe"
     }
   ]
 }
