@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "changelog": "Исправлен игровой режим с быстрой загрузкой, добавлены автообновления без подтверждения и окно с инструкцией при сбое мониторинга на 196",
+  "version": "1.1.0",
+  "changelog": "Обновлён внешний вид, внутренние улучшения стабильности работы и надёжности обновлений",
   "required": true,
   "download_url": "https://gitverse.ru/api/repos/wakanda/YRS-inc/raw/branch/main/CDN/LauncherUpdate/RustLauncher196.exe",
   "binaries": [
