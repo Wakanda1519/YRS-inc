@@ -1,12 +1,12 @@
 {
-  "version": "1.1.1",
-  "changelog": "Обновление безопасности, и новое зеркало для установки файлов игры.",
+  "version": "1.1.2",
+  "changelog": "Обновление списка зеркал для установки файлов.",
   "required": true,
-  "download_url": "http://209.142.100.14/launcher/launcherUpdate/RustLauncher196.exe",
+  "download_url": "https://files.yrs-project.com/launcher/launcherUpdate/RustLauncher196.exe",
   "binaries": [
     {
       "mirror": "YRS-WEB-1",
-      "url": "http://209.142.100.14/launcher/launcherUpdate/RustLauncher196.exe"
+      "url": "https://files.yrs-project.com/launcher/launcherUpdate/RustLauncher196.exe"
     },
     {
       "mirror": "GitHub",
