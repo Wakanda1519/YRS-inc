@@ -1,16 +1,16 @@
 {
-  "version": "1.1.0",
-  "changelog": "Обновлён внешний вид, внутренние улучшения стабильности работы и надёжности обновлений",
+  "version": "1.1.1",
+  "changelog": "Обновление безопасности, и новое зеркало для установки файлов игры.",
   "required": true,
-  "download_url": "https://gitverse.ru/api/repos/wakanda/YRS-inc/raw/branch/main/CDN/LauncherUpdate/RustLauncher196.exe",
+  "download_url": "http://209.142.100.14/launcher/launcherUpdate/RustLauncher196.exe",
   "binaries": [
+    {
+      "mirror": "YRS-WEB-1",
+      "url": "http://209.142.100.14/launcher/launcherUpdate/RustLauncher196.exe"
+    },
     {
       "mirror": "GitHub",
       "url": "https://raw.githubusercontent.com/Wakanda1519/YRS-inc/main/CDN/LauncherUpdate/RustLauncher196.exe"
-    },
-    {
-      "mirror": "GitVerse",
-      "url": "https://gitverse.ru/api/repos/wakanda/YRS-inc/raw/branch/main/CDN/LauncherUpdate/RustLauncher196.exe"
     }
   ]
 }
